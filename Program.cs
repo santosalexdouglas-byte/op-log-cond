@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Atv1.Executar();
+//Atv2.Executar();
+//Atv3.Executar();
+//Atv4.Executar();
+//Atv5.Executar();
+//Atv6.Executar();
+//Atv7.Executar();
+Atv8.Executar();
+//Atv9.Executar();
+
+
+//novoAtv3.Executar();
