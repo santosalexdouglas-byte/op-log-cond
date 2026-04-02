@@ -15,7 +15,7 @@ public static class Atv8
 
         //Pergunta 1
         Console.Write("telefonou para a vitima?");
-        resp = Console.ReadLine();
+        resp = (Console.ReadLine()!);
         if (resp == "sim")
         {
             pontos = pontos + 1;
@@ -23,7 +23,7 @@ public static class Atv8
 
         //pergunta 2
         Console.Write("Estava no local do crime?");
-        resp = Console.ReadLine();
+        resp = (Console.ReadLine()!);
         if (resp == "sim")
         {
             pontos = pontos + 1;
@@ -31,21 +31,21 @@ public static class Atv8
 
         //pergunta 3
         Console.Write("mora perto da vitima?");
-        resp = Console.ReadLine();
+        resp = (Console.ReadLine()!);
         if (resp == "sim")
         {
             pontos = pontos + 1;
         }
         //pergunta 4
         Console.Write("devia para a vitima?");
-        resp = Console.ReadLine();
-        if (resp == "sim") ;
+        resp = (Console.ReadLine()!);
+        if (resp == "sim")
         {
             pontos = pontos + 1;
         }
         //pergunta 5
         Console.Write("já trabalhou com a vitima?");
-        resp = Console.ReadLine();
+        resp = (Console.ReadLine()!);
         if (resp == "sim")
         {
             pontos = pontos + 1;
